@@ -1,0 +1,10 @@
+streamlit
+Pillow
+regex
+plotly
+matplotlib
+seaborn
+pandas
+numpy
+altair
+joblib
